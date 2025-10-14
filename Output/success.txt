@@ -1,6 +1,0 @@
-﻿﻿LogMessage = 'Match found for user: COMARTINMA'
-﻿LogMessage = 'Match found for user: COMARTINMA'
-﻿LogMessage = 'Match found for user: TUAL'
-﻿LogMessage = 'Match found for user: TUAL'
-﻿LogMessage = 'Match found for user: TUAL'
-﻿LogMessage = 'Match found for user: TUAL'
